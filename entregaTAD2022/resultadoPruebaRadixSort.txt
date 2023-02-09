@@ -1,0 +1,83 @@
+creamos la lista vacía 0 : 0
+creamos la lista vacía 1 : 0
+creamos la lista vacía 2 : 0
+creamos la lista vacía 3 : 0
+creamos la lista vacía 4 : 0
+creamos la lista vacía 5 : 0
+creamos la lista vacía 6 : 0
+creamos la lista vacía 7 : 0
+creamos la lista vacía 8 : 0
+creamos la lista vacía 9 : 0
+
+Iteración número 1
+====================
+
+Lista[0]
+Lista[1]
+Lista[2]	 60492
+Lista[3]	 89383	 47793
+Lista[4]
+Lista[5]	 36915	 38335
+Lista[6]	 30886	 85386
+Lista[7]	 92777
+Lista[8]
+Lista[9]
+Lista concatenada:	 60492	 89383	 47793	 36915	 38335	 30886	 85386	 92777
+Iteración número 2
+====================
+
+Lista[0]
+Lista[1]	 36915
+Lista[2]
+Lista[3]	 38335
+Lista[4]
+Lista[5]
+Lista[6]
+Lista[7]	 92777
+Lista[8]	 89383	 30886	 85386
+Lista[9]	 60492	 47793
+Lista concatenada:	 36915	 38335	 92777	 89383	 30886	 85386	 60492	 47793
+Iteración número 3
+====================
+
+Lista[0]
+Lista[1]
+Lista[2]
+Lista[3]	 38335	 89383	 85386
+Lista[4]	 60492
+Lista[5]
+Lista[6]
+Lista[7]	 92777	 47793
+Lista[8]	 30886
+Lista[9]	 36915
+Lista concatenada:	 38335	 89383	 85386	 60492	 92777	 47793	 30886	 36915
+Iteración número 4
+====================
+
+Lista[0]	 60492	 30886
+Lista[1]
+Lista[2]	 92777
+Lista[3]
+Lista[4]
+Lista[5]	 85386
+Lista[6]	 36915
+Lista[7]	 47793
+Lista[8]	 38335
+Lista[9]	 89383
+Lista concatenada:	 60492	 30886	 92777	 85386	 36915	 47793	 38335	 89383
+Iteración número 5
+====================
+
+Lista[0]
+Lista[1]
+Lista[2]
+Lista[3]	 30886	 36915	 38335
+Lista[4]	 47793
+Lista[5]
+Lista[6]	 60492
+Lista[7]
+Lista[8]	 85386	 89383
+Lista[9]	 92777
+Lista concatenada:	 30886	 36915	 38335	 47793	 60492	 85386	 89383	 92777
+tiempoMedio;Externo;Interno;Concatenar
+ 0.000013 ;  5  ;  50  ;  40
